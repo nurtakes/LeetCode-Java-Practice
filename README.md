@@ -10,5 +10,3 @@ Bu repository, Java programlama dilindeki temel yeteneklerimi tazelemek, sentaks
 ## ⚙️ Kullanılan Teknolojiler
 * **Programlama Dili:** Java
 * **Platform:** LeetCode
-
-*Not: Bu repodaki çözümler, tarayıcı eklentisi aracılığıyla LeetCode platformundan otomatik olarak senkronize edilmektedir.*
