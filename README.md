@@ -21,4 +21,13 @@ Bu repository, Java programlama dilindeki temel yeteneklerimi tazelemek, sentaks
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nurtakes/LeetCode-Java-Practice/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/nurtakes/LeetCode-Java-Practice/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nurtakes/LeetCode-Java-Practice/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nurtakes/LeetCode-Java-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
