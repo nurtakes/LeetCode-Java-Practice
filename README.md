@@ -10,3 +10,15 @@ Bu repository, Java programlama dilindeki temel yeteneklerimi tazelemek, sentaks
 ## ⚙️ Kullanılan Teknolojiler
 * **Programlama Dili:** Java
 * **Platform:** LeetCode
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nurtakes/LeetCode-Java-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/nurtakes/LeetCode-Java-Practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
